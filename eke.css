@@ -1,0 +1,42 @@
+h1 {
+color:royalblue ;
+text-align: center;
+text-shadow: 50;
+box-sizing: border-box 70px ;
+}
+
+p {
+color:;
+line    
+}
+
+img{
+width: 500px;
+display: inline-block;
+vertical-align: center;
+}
+.helper {
+    display: center 100px;
+}
+
+
+li{
+list-style-type: decimal;
+border-spacing: !important;
+}
+
+form{
+text-orientation: 100,50;
+border: 100, 100;
+background-color: orchid;
+}
+*
+body {
+background: blanchedalmond;
+background-image: unset;
+border: 30px solid #bdc3c7;
+max-width: 2000px;
+border-left: 50;
+border-spacing: 50,50;
+}
+
